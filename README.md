@@ -8,6 +8,9 @@ amharic blog website
 
 ## Inspiration 🌹
 
+## Non Negotiables: 
+> This website will strictly be non-political in nature. It's a safe haven for those who'd like to learn language without identity and tribal politics coming into play
+
 ## Business Model/ The Lean Canvas: 
 - Problems: 
     - 
@@ -20,7 +23,7 @@ amharic blog website
      
 - High Level Concept: 
 - Unfair Advantage: I have a skill of learning languages. I'm fluent in Amharic(read/write/speak). 
-- Channels: YouTube [Linguistic Colors](https://www.youtube.com/channel/UCyEdoYpPzR8wcyV7owwbpAg?view_as=subscriber) and [Sam Bliss](https://www.youtube.com/channel/UCQYF796GfX3paMASMsRDGIg/videos)
+- Channels: 
 - Customer Segments: 
 - Early Adopters: none as of yet
 - Cost Structure: 
