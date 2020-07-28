@@ -2,7 +2,10 @@
 amharic blog website
 ## How to use the application 👌🏾👌
 
-## Link to full stack Plantain* app: 
+## Link to full stack Plantain* website: 
+## Technologies Used to build website:
+- Milligram CSS: go to `[milligram.io]](https://milligram.io/)` for details of how to run milligram
+- 
 ## Overview 👋🏾👋
 
 
